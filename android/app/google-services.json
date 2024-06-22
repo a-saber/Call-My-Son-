@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "998723869994",
+    "firebase_url": "https://school-call-student-default-rtdb.firebaseio.com",
+    "project_id": "school-call-student",
+    "storage_bucket": "school-call-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998723869994:android:487c5178dc5a118a351253",
+        "android_client_info": {
+          "package_name": "com.example.call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KR0PT1rB8nKpuY3cUvFaLeiiR1rHdsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998723869994:android:30439e702340a022351253",
+        "android_client_info": {
+          "package_name": "com.example.call_son"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KR0PT1rB8nKpuY3cUvFaLeiiR1rHdsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998723869994:android:c85365b83d8ebe67351253",
+        "android_client_info": {
+          "package_name": "com.example.call_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KR0PT1rB8nKpuY3cUvFaLeiiR1rHdsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
