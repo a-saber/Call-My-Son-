@@ -13,7 +13,17 @@ Call My Son is a Flutter application aimed at simplifying and securing the proce
   - If the location condition is met, the school releases the child to the parent, and the transaction is logged.
   - If the location condition is not met, the request is declined with a notification to the parent.
 
+![Home](screenshots/home.jpeg)
+![New Organization](screenshots/o1.jpeg)
+![Organization Location](screenshots/o2.jpeg)
+![New Parent](screenshots/g1.jpeg)
+![All Organizations](screenshots/g2.jpeg)
+![Level of Organization](screenshots/g3.jpeg)
+
 ## Usage
+
+### APK: [download from here](https://drive.google.com/file/d/1ElDtTvObk42_AqUTIC9TVIjR06-jpfnA/view?usp=sharing)
+
 
 1. **For Schools**:
    - Sign up and create an account.
